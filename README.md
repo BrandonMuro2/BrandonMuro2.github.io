@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -6,27 +5,22 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f2f2f2;
+            background-color: #333;
+            color: #fff;
+            text-align: center;
             margin: 0;
             padding: 0;
         }
         .container {
             max-width: 800px;
             margin: 0 auto;
-            background-color: #fff;
+            background-color: #222;
             padding: 20px;
             border-radius: 5px;
             box-shadow: 0 0 10px rgba(0,0,0,0.1);
         }
-        h1 {
-            text-align: center;
-            font-size: 28px;
-            color: #333;
-        }
-        h2 {
-            text-align: center;
-            font-size: 24px;
-            color: #333;
+        h1, h2 {
+            color: #fff;
         }
         img {
             display: block;
@@ -35,11 +29,10 @@
             height: auto;
         }
         .content {
-            text-align: center;
             font-size: 18px;
-            color: #555;
+            color: #ccc;
         }
-        .features {
+        .features, .specifications, .applications, .how-to-use, .example {
             margin-top: 20px;
         }
         ul {
@@ -49,25 +42,11 @@
         li {
             margin-bottom: 10px;
         }
-        .specifications {
-            text-align: center;
-            margin-top: 20px;
-        }
         .spec-img {
             display: block;
             margin: 0 auto;
             max-width: 80%;
             height: auto;
-        }
-        .applications {
-            margin-top: 20px;
-        }
-        .how-to-use {
-            margin-top: 20px;
-        }
-        .example {
-            text-align: center;
-            margin-top: 20px;
         }
     </style>
 </head>
