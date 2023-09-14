@@ -1,4 +1,34 @@
-# **Led bar graph**
-x.x
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn11.bigcommerce.com%2Fs-yo2n39m6g3%2Fimages%2Fstencil%2F1280x1280%2Fproducts%2F109%2F3010%2Fqc__50784.1567256229.png%3Fc%3D2%3Fimbypass%3Don&f=1&nofb=1&ipt=04b02a1181850a239a780c9141ee878407985a569515f23a7fbbf05e22dd27e0&ipo=images">
-theme: minima
+# **Barra de LEDs**
+
+**Muro Andrade Brandon Arturo**
+Estudiante: 20211818
+
+![Barra de LEDs](https://www.makerguides.com/wp-content/uploads/2022/10/the-LED-light-bar-graphs-from-Everlight.jpg)
+
+<div style="text-align:center;">
+    Las barras de LEDs son un grupo de LEDs independientes dispuestos uno al lado del otro. Vienen en una variedad de colores y cuentan con una cantidad de LEDs personalizable.
+</div>
+
+  
+**Características:**
+- 10 LEDs con control individual
+- Alto brillo
+- Alta intensidad
+- Económicamente asequible
+- Compatible con protoboard o placa de pruebas
+- Cumple con la normativa RoHS
+- Amplio ángulo de visión
+- Colores disponibles: Rojo, verde, azul, amarillo, naranja y ámbar
+
+**Especificaciones:**
+- 20 pines (10 ánodos y 10 cátodos, un par para cada LED)
+![Especificaciones](https://components101.com/sites/default/files/component_pin/LED-Bar-Graph-Pinout.png)
+
+**¿Dónde se usa?**
+Generalmente, podemos utilizar la barra de LEDs como indicador de nivel de batería, en equipos de audio y en paneles de control industrial. Existen muchas otras aplicaciones para la barra de LEDs.
+
+**¿Cómo se usa?**
+La conexión es similar a la de 10 LEDs individuales.
+
+**Ejemplo con Arduino Uno:**
+[Ver ejemplo](https://wokwi.com/projects/309829489359061570)
