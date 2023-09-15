@@ -71,23 +71,11 @@
             <li>Amplio ángulo de visión</li>
             <li>Colores disponibles: Rojo, verde, azul, amarillo, naranja y ámbar</li>
         </ul>
-        <div class="specifications">
-    <h2>Especificaciones:</h2>
-    
-| Especificación                | Valor                                       |
-|-------------------------------|---------------------------------------------|
-| Corriente Directa             | 20mA                                        |
-| Voltaje Directo               | 2.0V a 2.2V (máximo)                        |
-| Intensidad Luminosa           | 60mcd                                       |
-| Longitud de Onda              | 630nm                                       |
-| Temperatura de Operación      | -25℃ a 85℃                                  |
-| Temperatura de Almacenamiento | -30℃ a 85℃                                  |
-| Temperatura de Soldadura      | 260℃ durante 5 segundos                     |
-| Colores Disponibles           | Rojo, Verde, Azul, Amarillo, Naranja, Ámbar |
-    
-<img class="spec-img" src="https://components101.com/sites/default/files/component_pin/LED-Bar-Graph-Pinout.png" alt="Especificaciones">
-<p>20 pines (10 ánodos y 10 cátodos, un par para cada LED)</p>
-</div>
+         <div class="specifications">
+            <h2>Especificaciones:</h2>
+            <img class="spec-img" src="https://components101.com/sites/default/files/component_pin/LED-Bar-Graph-Pinout.png" alt="Especificaciones">
+            <p>20 pines (10 ánodos y 10 cátodos, un par para cada LED)</p>
+        </div>
         <div class="applications">
             <h2>¿Dónde se usa?</h2>
             <p>Generalmente, podemos utilizar la barra de LEDs como indicador de nivel de batería, en equipos de audio y en paneles de control industrial. Existen muchas otras aplicaciones para la barra de LEDs.</p>
