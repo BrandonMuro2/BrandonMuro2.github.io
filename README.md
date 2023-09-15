@@ -56,10 +56,10 @@
     <div class="container">
         <h1>Barra de LEDs</h1>
         <p><strong>Muro Andrade Brandon Arturo</strong><br>Estudiante: 20211818</p>
-        <img src="https://www.makerguides.com/wp-content/uploads/2022/10/the-LED-light-bar-graphs-from-Everlight.jpg" alt="Barra de LEDs">
         <div class="content">
             Las barras de LEDs son un grupo de LEDs independientes dispuestos uno al lado del otro. Vienen en una variedad de colores y cuentan con una cantidad de LEDs personalizable.
         </div>
+        <img src="https://www.makerguides.com/wp-content/uploads/2022/10/the-LED-light-bar-graphs-from-Everlight.jpg" alt="Barra de LEDs">
         <h2>Características:</h2>
         <ul class="features">
             <li>10 LEDs con control individual</li>
@@ -73,8 +73,8 @@
         </ul>
          <div class="specifications">
             <h2>Especificaciones:</h2>
-            <img class="spec-img" src="https://components101.com/sites/default/files/component_pin/LED-Bar-Graph-Pinout.png" alt="Especificaciones">
             <p>20 pines (10 ánodos y 10 cátodos, un par para cada LED)</p>
+            <img class="spec-img" src="https://components101.com/sites/default/files/component_pin/LED-Bar-Graph-Pinout.png" alt="Especificaciones">
         </div>
         <div class="applications">
             <h2>¿Dónde se usa?</h2>
